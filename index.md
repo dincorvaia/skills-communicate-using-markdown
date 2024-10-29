@@ -3,3 +3,11 @@
 
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+```javascript
+class Example{
+  constructor(){
+    this.private=null;
+  }
+}
+```
